@@ -1,16 +1,13 @@
-package io.github.gmills82.battleroyale.commands;
+package io.github.noelxtc.battleroyale.commands;
 
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 
-import static io.github.gmills82.battleroyale.constants.Constants.COMMAND_CATASTROPHY;
+import static io.github.noelxtc.battleroyale.constants.Constants.COMMAND_CATASTROPHY;
 
-/**
- * @author Grant Mills
- * @since 5/29/16
- */
+
 public class CatastrophyCommandExecutor implements CommandExecutor {
 	private BattleRoyaleCommandService commandService;
 

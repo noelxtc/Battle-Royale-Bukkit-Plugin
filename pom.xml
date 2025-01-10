@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>io.github.gmills82</groupId>
+  <groupId>io.github.noelxtc</groupId>
   <artifactId>battleRoyale</artifactId>
   <version>${yaml.plugin.version}</version>
   <description>A Bukkit Minecraft plugin designed to simulate the Battle Royale movies</description>

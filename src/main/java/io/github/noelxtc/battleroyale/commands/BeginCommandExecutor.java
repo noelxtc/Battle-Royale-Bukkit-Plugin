@@ -1,4 +1,4 @@
-package io.github.gmills82.battleroyale.commands;
+package io.github.noelxtc.battleroyale.commands;
 
 import org.bukkit.Bukkit;
 import org.bukkit.command.Command;
@@ -11,7 +11,7 @@ import java.util.Collections;
 import java.util.HashSet;
 import java.util.Set;
 
-import static io.github.gmills82.battleroyale.constants.Constants.COMMAND_BEGIN_BATTLE_ROYAL;
+import static io.github.noelxtc.battleroyale.constants.Constants.COMMAND_BEGIN_BATTLE_ROYAL;
 
 /**
  * @author Grant Mills
