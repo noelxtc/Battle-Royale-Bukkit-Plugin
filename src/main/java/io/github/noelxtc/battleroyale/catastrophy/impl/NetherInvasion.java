@@ -1,15 +1,15 @@
-package io.github.gmills82.battleroyale.catastrophy.impl;
+package io.github.noelxtc.battleroyale.catastrophy.impl;
 
-import io.github.gmills82.battleroyale.catastrophy.Catastrophy;
+import io.github.noelxtc.battleroyale.catastrophy.Catastrophy;
 import org.bukkit.Bukkit;
 import org.bukkit.Location;
 import org.bukkit.World;
 
-import static io.github.gmills82.battleroyale.util.PortalUtil.createNetherPortal;
+import static io.github.noelxtc.battleroyale.util.PortalUtil.createNetherPortal;
 
 /**
- * @author Grant Mills
- * @since 5/29/16
+ * @author Noel Tony
+ * @since 27/12/24
  */
 public class NetherInvasion implements Catastrophy {
 	@Override

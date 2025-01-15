@@ -1,13 +1,13 @@
-package io.github.gmills82.battleroyale.commands;
+package io.github.noelxtc.battleroyale.commands;
 
-import io.github.gmills82.battleroyale.BattleRoyaleGameState;
-import io.github.gmills82.battleroyale.BattleRoyalePlugin;
-import io.github.gmills82.battleroyale.catastrophy.Catastrophy;
-import io.github.gmills82.battleroyale.catastrophy.impl.NetherInvasion;
-import io.github.gmills82.battleroyale.gifts.GiftsService;
-import io.github.gmills82.battleroyale.gifts.PlayerGift;
-import io.github.gmills82.battleroyale.runnables.DestructSequenceRunnable;
-import io.github.gmills82.battleroyale.util.LocationUtil;
+import io.github.noelxtc.battleroyale.BattleRoyaleGameState;
+import io.github.noelxtc.battleroyale.BattleRoyalePlugin;
+import io.github.noelxtc.battleroyale.catastrophy.Catastrophy;
+import io.github.noelxtc.battleroyale.catastrophy.impl.NetherInvasion;
+import io.github.noelxtc.battleroyale.gifts.GiftsService;
+import io.github.noelxtc.battleroyale.gifts.PlayerGift;
+import io.github.noelxtc2.battleroyale.runnables.DestructSequenceRunnable;
+import io.github.noelxtc.battleroyale.util.LocationUtil;
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
 import org.bukkit.GameMode;
@@ -22,11 +22,11 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Set;
 
-import static io.github.gmills82.battleroyale.util.TicksUtil.convertMinsToTicks;
+import static io.github.noelxtc.battleroyale.util.TicksUtil.convertMinsToTicks;
 
 /**
- * @author Grant Mills
- * @since 5/20/16
+ * @author Noel Tony
+ * @since 27/12/24
  */
 public class BattleRoyaleCommandService {
 

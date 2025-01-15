@@ -1,10 +1,4 @@
-package io.github.gmills82.battleroyale.catastrophy;
 
-import io.github.gmills82.battleroyale.catastrophy.impl.BossSummon;
-import io.github.gmills82.battleroyale.catastrophy.impl.Flood;
-import io.github.gmills82.battleroyale.catastrophy.impl.LandDestruction;
-import io.github.gmills82.battleroyale.catastrophy.impl.LightningStorm;
-import io.github.gmills82.battleroyale.catastrophy.impl.NetherInvasion;
 
 import java.util.ArrayList;
 import java.util.List;

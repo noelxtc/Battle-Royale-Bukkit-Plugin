@@ -1,4 +1,4 @@
-package io.github.gmills82.battleroyale.commands;
+package io.github.noelxtc.battleroyale.commands;
 
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
@@ -8,8 +8,8 @@ import org.bukkit.entity.Player;
 import static io.github.gmills82.battleroyale.constants.Constants.COMMAND_PAUSE_BATTLE_ROYAL;
 
 /**
- * @author Grant Mills
- * @since 5/22/16
+ * @author Noel Tony
+ * @since 27/12/24
  */
 public class PauseCommandExecutor implements CommandExecutor{
 

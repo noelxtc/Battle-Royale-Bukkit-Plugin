@@ -1,14 +1,14 @@
-package io.github.gmills82.battleroyale.catastrophy.impl;
+package io.github.noelxtc.battleroyale.catastrophy.impl;
 
-import io.github.gmills82.battleroyale.catastrophy.Catastrophy;
+import io.github.noelxtc.battleroyale.catastrophy.Catastrophy;
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
 import org.bukkit.World;
 import org.bukkit.WorldBorder;
 
 /**
- * @author Grant Mills
- * @since 5/29/16
+ * @author Noel Tony
+ * @since 27/12/24
  */
 public class WorldBorderCollapse implements Catastrophy {
 	private static final double DELAY_WB_COLLAPSE = 3;

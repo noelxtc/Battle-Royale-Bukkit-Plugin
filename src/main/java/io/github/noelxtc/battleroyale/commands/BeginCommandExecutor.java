@@ -14,8 +14,8 @@ import java.util.Set;
 import static io.github.noelxtc.battleroyale.constants.Constants.COMMAND_BEGIN_BATTLE_ROYAL;
 
 /**
- * @author Grant Mills
- * @since 5/20/16
+ * @author Noel Tony
+ * @since 27/12/24
  */
 public class BeginCommandExecutor implements CommandExecutor {
 

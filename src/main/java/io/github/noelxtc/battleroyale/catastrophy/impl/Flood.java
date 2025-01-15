@@ -1,6 +1,6 @@
-package io.github.gmills82.battleroyale.catastrophy.impl;
+package io.github.noelxtc.battleroyale.catastrophy.impl;
 
-import io.github.gmills82.battleroyale.catastrophy.Catastrophy;
+import io.github.noelxtc.battleroyale.catastrophy.Catastrophy;
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
 import org.bukkit.Chunk;
@@ -12,11 +12,11 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-import static io.github.gmills82.battleroyale.util.LocationUtil.findCenterTopBlockOfChunk;
+import static io.github.noelxtc.battleroyale.util.LocationUtil.findCenterTopBlockOfChunk;
 
 /**
- * @author Grant Mills
- * @since 5/29/16
+ * @author Noel Tony
+ * @since 27/12/24
  */
 public class Flood implements Catastrophy{
 	private static final double DELAY = 3;
@@ -45,7 +45,7 @@ public class Flood implements Catastrophy{
 		}
 
 		//Leave a little high ground, accounts for hitting tree tops with check
-		floodYLevel -= 15;
+		floodYLevel -=15;
 
 		//WB dimensions
 		Double worldBorderSize = world.getWorldBorder().getSize();
