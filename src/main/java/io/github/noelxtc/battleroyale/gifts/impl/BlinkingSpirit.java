@@ -1,6 +1,6 @@
-package io.github.gmills82.battleroyale.gifts.impl;
+package io.github.noelxtc.battleroyale.gifts.impl;
 
-import io.github.gmills82.battleroyale.gifts.PlayerGift;
+import io.github.noelxtc.battleroyale.gifts.PlayerGift;
 import org.bukkit.ChatColor;
 import org.bukkit.Material;
 import org.bukkit.enchantments.Enchantment;
@@ -8,8 +8,8 @@ import org.bukkit.entity.Player;
 import org.bukkit.inventory.ItemStack;
 
 /**
- * @author Grant Mills
- * @since 5/23/16
+ * @author Noel Tony
+ * @since 27/12/2024
  */
 public class BlinkingSpirit implements PlayerGift{
 	private ItemStack pearls;
