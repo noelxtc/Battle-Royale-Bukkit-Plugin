@@ -1,6 +1,6 @@
-package io.github.gmills82.battleroyale.gifts.impl;
+package io.github.noelxtc.battleroyale.gifts.impl;
 
-import io.github.gmills82.battleroyale.gifts.PlayerGift;
+import io.github.noelxtc.battleroyale.gifts.PlayerGift;
 import org.bukkit.ChatColor;
 import org.bukkit.Material;
 import org.bukkit.entity.Player;
@@ -10,8 +10,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author Grant Mills
- * @since 5/23/16
+ * @author Noel Tony
+ * @since 27/12/2024
  */
 public class Demolitionist implements PlayerGift {
 	private List<ItemStack> demoInventory = new ArrayList<ItemStack>();

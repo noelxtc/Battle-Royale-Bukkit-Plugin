@@ -1,4 +1,4 @@
-package io.github.gmills82.battleroyale.gifts.impl;
+package io.github.noelxtc.battleroyale.gifts.impl;
 
 import io.github.gmills82.battleroyale.gifts.PlayerGift;
 import org.bukkit.ChatColor;
@@ -11,8 +11,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author Grant Mills
- * @since 5/23/16
+ * @author Noel Tony
+ * @since 27/12/2024
  */
 public class Devil implements PlayerGift {
 	private List<ItemStack> inventory = new ArrayList<ItemStack>();
